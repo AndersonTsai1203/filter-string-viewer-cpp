@@ -1,4 +1,4 @@
-# filtered_string_viewer
+# filtered string viewer
 
 0. Changlog
 1. Introduction
