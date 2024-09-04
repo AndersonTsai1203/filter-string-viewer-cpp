@@ -1,6 +1,10 @@
-# `filtered_string_view`
+# filtered_string_view
 
-## Changelog
+0. Changlog
+1. Introduction
+2. Tasks
+
+## 0. Changelog
 
 * 19/06: Updated the testing clarity criteria
 
